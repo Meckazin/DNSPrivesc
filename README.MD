@@ -1,4 +1,6 @@
 # DNSPrivesc
+Shamelessly copied from:
+[ired.team](https://ired.team/offensive-security-experiments/active-directory-kerberos-abuse/from-dnsadmins-to-system-to-domain-compromise) - Go read it for more detailed explanation
 
 ## Using the DLL
 
